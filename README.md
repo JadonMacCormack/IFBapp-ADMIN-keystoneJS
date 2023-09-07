@@ -1,3 +1,3 @@
-<h1 align="center">SDO Keystone</h1>
+<h1 align="center">IFBapp-Admin-KeystoneJS</h1>
 
-<p align="center">The Admin app for Sound Doctrine Online powered by Keystone JS.</p>
+<p align="center">The Admin app for IFBapp powered by Keystone JS.</p>
